@@ -52,12 +52,12 @@ nav li a:hover{
     text-align: center;
 }
 .texto .titulo{
-    color: #000000;
+    color: #ffffff;
     font-size: 60px;
     font-weight: 600;
 }
 .texto .sub_titulo{
-    color: #000000;
+    color: #ffffff;
     font-size: 58px;
     font-weight: 600;
 }
@@ -78,13 +78,13 @@ nav li a:hover{
     transition: 0.3s;
 }
 .texto .botoes button.n-overlay{
-    color: white;
+    color: rgb(0, 0, 0);
     background: none;
-    border: 2px solid white;
+    border: 2px solid rgb(255, 255, 255);
 }
 .texto .botoes button.n-overlay:hover{
     color: black;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
 }
 .texto .botoes button.overlay{
     background: white;
