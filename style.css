@@ -83,12 +83,12 @@ nav li a:hover{
     border: 2px solid rgb(0, 0, 0);
 }
 .texto .botoes button.n-overlay:hover{
-    color: black;
+    color: rgb(255, 255, 255);
     background-color: rgb(0, 0, 0);
 }
 .texto .botoes button.overlay{
     background: rgb(0, 0, 0);
-    color: black;
+    color: rgb(255, 255, 255);
     animation: vibrar 0.8s ease-in-out infinite both;
 }
 @keyframes vibrar {
